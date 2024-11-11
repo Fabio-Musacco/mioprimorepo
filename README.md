@@ -13,3 +13,4 @@ buongiorno
  - sondrio
  - CENTRALE FS
  - REPUBBLICA
+ - TURATI
