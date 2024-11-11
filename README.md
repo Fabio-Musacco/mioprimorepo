@@ -12,4 +12,4 @@ buongiorno
  - zara
  - sondrio
  - CENTRALE FS
- 
+ - REPUBBLICA
