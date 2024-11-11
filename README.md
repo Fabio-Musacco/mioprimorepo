@@ -7,3 +7,5 @@ buongiorno
  - comasina
  - affori fn
  - affori centro
+ - dergano
+ - maciachini
