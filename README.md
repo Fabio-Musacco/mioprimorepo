@@ -16,3 +16,4 @@ buongiorno
  - TURATI
  - MONTENAPOLEONE
  - DUOMO
+ - MISSORI
