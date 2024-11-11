@@ -15,3 +15,4 @@ buongiorno
  - REPUBBLICA
  - TURATI
  - MONTENAPOLEONE
+ - DUOMO
