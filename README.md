@@ -11,3 +11,5 @@ buongiorno
  - maciachini
  - zara
  - sondrio
+ - CENTRALE FS
+ 
