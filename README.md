@@ -9,3 +9,5 @@ buongiorno
  - affori centro
  - dergano
  - maciachini
+ - zara
+ - 
