@@ -18,3 +18,4 @@ buongiorno
  - DUOMO
  - MISSORI
  - CROCETTA
+ - PORTA ROMANA
