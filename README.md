@@ -6,3 +6,4 @@ buongiorno
 ### metro gialla
  - comasina
  - affori fn
+ - affori centro
