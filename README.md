@@ -19,3 +19,4 @@ buongiorno
  - MISSORI
  - CROCETTA
  - PORTA ROMANA
+ - LODI
