@@ -10,4 +10,4 @@ buongiorno
  - dergano
  - maciachini
  - zara
- - 
+ - sondrio
