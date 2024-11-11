@@ -17,3 +17,4 @@ buongiorno
  - MONTENAPOLEONE
  - DUOMO
  - MISSORI
+ - CROCETTA
